@@ -1,0 +1,9 @@
+seaborn
+plotly
+plotly_express
+pandas
+matplotlib
+numpy
+notebook
+jupyterlab
+dush

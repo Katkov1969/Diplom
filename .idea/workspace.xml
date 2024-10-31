@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DiplomUrban.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatplotExample/Animation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatplotExample/Chart3D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatplotExample/Histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatplotExample/LineChart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatplotExample/PieChart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatplotExample/ScatteringDiagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatplotExample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlotlyExample/ChartPlotly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlotlyExample/DashPlotly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlotlyExample/PltExpress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlotlyExample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeabornExample/AirTransportation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeabornExample/BoxPlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeabornExample/HeatMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeabornExample/HistKDE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeabornExample/Regress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeabornExample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nvJnUa184ZX076pLtUV72UbBBZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AirTransportation.executor": "Run",
+    "Python.Animation.executor": "Run",
+    "Python.BarDiagram.executor": "Run",
+    "Python.BarDiagram_2.executor": "Run",
+    "Python.BoxPlot.executor": "Run",
+    "Python.Chart3D.executor": "Run",
+    "Python.ChartPlotly.executor": "Run",
+    "Python.ChartSeaborn.executor": "Run",
+    "Python.DashPlotly.executor": "Run",
+    "Python.Example.executor": "Run",
+    "Python.Examplle2.executor": "Run",
+    "Python.HeatMap.executor": "Run",
+    "Python.Histogram.executor": "Run",
+    "Python.LineChart.executor": "Run",
+    "Python.LineChartMtpl.executor": "Run",
+    "Python.LineChartSubplot.executor": "Run",
+    "Python.LineChart_2.executor": "Run",
+    "Python.LineChart_3.executor": "Run",
+    "Python.LinePlotly.executor": "Run",
+    "Python.Line_Scatter.executor": "Run",
+    "Python.LinesPoints3D.executor": "Run",
+    "Python.New.executor": "Run",
+    "Python.PieChart.executor": "Run",
+    "Python.PlotlyAndJupiter.executor": "Run",
+    "Python.PltExpress.executor": "Run",
+    "Python.Points3D.executor": "Run",
+    "Python.PointsAndLines3D.executor": "Run",
+    "Python.Regress.executor": "Run",
+    "Python.ScatteringDiagram.executor": "Run",
+    "Python.Simple_1.executor": "Run",
+    "Python.ThreeInOne.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.example_2.executor": "Run",
+    "Python.Учфьзду.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\DiplomUrban\MatplotExample" />
+      <recent name="C:\Users\user\PycharmProjects\DiplomUrban\MatplotExample\Matplotlib3D" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="" />
+      <created>1729847783300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729847783300</updated>
+    </task>
+    <servers />
+  </component>
+</project>
