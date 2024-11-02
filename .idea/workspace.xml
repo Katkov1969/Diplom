@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="" />
+    <list default="true" id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,46 +45,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AirTransportation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Animation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BarDiagram.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BarDiagram_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BoxPlot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Chart3D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ChartPlotly.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ChartSeaborn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DashPlotly.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Examplle2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HeatMap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Histogram.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineChart.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineChartMtpl.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineChartSubplot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineChart_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineChart_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LinePlotly.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Line_Scatter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LinesPoints3D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.New.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PieChart.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PlotlyAndJupiter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PltExpress.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Points3D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PointsAndLines3D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Regress.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ScatteringDiagram.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Simple_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ThreeInOne.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Учфьзду.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AirTransportation.executor": "Run",
+    "Python.Animation.executor": "Run",
+    "Python.BarDiagram.executor": "Run",
+    "Python.BarDiagram_2.executor": "Run",
+    "Python.BoxPlot.executor": "Run",
+    "Python.Chart3D.executor": "Run",
+    "Python.ChartPlotly.executor": "Run",
+    "Python.ChartSeaborn.executor": "Run",
+    "Python.DashPlotly.executor": "Run",
+    "Python.Example.executor": "Run",
+    "Python.Examplle2.executor": "Run",
+    "Python.HeatMap.executor": "Run",
+    "Python.Histogram.executor": "Run",
+    "Python.LineChart.executor": "Run",
+    "Python.LineChartMtpl.executor": "Run",
+    "Python.LineChartSubplot.executor": "Run",
+    "Python.LineChart_2.executor": "Run",
+    "Python.LineChart_3.executor": "Run",
+    "Python.LinePlotly.executor": "Run",
+    "Python.Line_Scatter.executor": "Run",
+    "Python.LinesPoints3D.executor": "Run",
+    "Python.New.executor": "Run",
+    "Python.PieChart.executor": "Run",
+    "Python.PlotlyAndJupiter.executor": "Run",
+    "Python.PltExpress.executor": "Run",
+    "Python.Points3D.executor": "Run",
+    "Python.PointsAndLines3D.executor": "Run",
+    "Python.Regress.executor": "Run",
+    "Python.ScatteringDiagram.executor": "Run",
+    "Python.Simple_1.executor": "Run",
+    "Python.ThreeInOne.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.example_2.executor": "Run",
+    "Python.Учфьзду.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\DiplomUrban\MatplotExample" />
