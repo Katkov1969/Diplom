@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Animation.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/Animation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/BarDiagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/BarDiagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Chart3D.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/Chart3D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/Histogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/LineChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/LineChart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/LineChartSubplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/LineChartSubplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/PieChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/PieChart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/ScatteringDiagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/ScatteringDiagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/ChartPlotly.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/ChartPlotly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/PltExpress.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/PltExpress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_3d_surface.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_3d_surface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_histogram.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_histogram.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_line.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_line.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_scatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_scatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/AirTransportation.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/AirTransportation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/BoxPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/BoxPlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/HeatMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/HeatMap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/HistKDE.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/HistKDE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/Regress.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/Regress.py" afterDir="false" />
-    </list>
+    <list default="true" id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
