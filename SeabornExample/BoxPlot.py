@@ -19,6 +19,7 @@ def plot_boxplot(data, labels):
     plt.grid(True)
     plt.show()
 
+
 """ 
 Генератор норм распр. 
 loc - центр 0-3, 

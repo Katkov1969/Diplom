@@ -1,6 +1,5 @@
 import plotly.express as px
 
-
 """
 Кластеризация ирисов Фишера
 """

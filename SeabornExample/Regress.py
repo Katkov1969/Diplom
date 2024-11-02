@@ -6,8 +6,10 @@ import matplotlib.pyplot as plt
 """
 Диаграмма рассеяния с регрессионной линией
 """
+
+
 def plot_scatter_with_regression(x, y):
-    sns.set(style="darkgrid")            # Установка стиля Seaborn
+    sns.set(style="darkgrid")  # Установка стиля Seaborn
     plt.figure(figsize=(10, 6))
     sns.regplot(x=x, y=y, color='m')
     plt.title('Диаграмма рассеяния с регрессионной линией')
@@ -15,6 +17,7 @@ def plot_scatter_with_regression(x, y):
     plt.ylabel('Значение Y')
     plt.grid(True)
     plt.show()
+
 
 # Вызов
 x = np.random.rand(100)

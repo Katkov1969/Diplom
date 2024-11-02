@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 """ Компоновка двух графиков в одном окне """
+
+
 def plot_multiple_subplots(x, y1, y2):
     fig, axs = plt.subplots(2, 1, figsize=(10, 8))
 
@@ -20,6 +22,7 @@ def plot_multiple_subplots(x, y1, y2):
 
     plt.tight_layout()
     plt.show()
+
 
 # вызов
 x_min = -4
