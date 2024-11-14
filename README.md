@@ -3,7 +3,7 @@
 •	BarDiagram.py – столбцовые диаграммы;
 •	Chart3D.py – 3D графики;
 •	HistogramChart.py – гистограммы;
-•	LineChart.py – линейные графики;
+•	LineChart.py – линейные графики;  https://docs.google.com/drawings/d/1FDmVzyRLdlhYbibLnH98YNFROWuDViX_Uac3wa-xpXo/edit?usp=sharing
 •	 LineChartSubplot.py – компоновка графиков;
 •	PieChart.py – круговая диаграмма;
 •	ScatteringDiagram.py – диаграмма рассеяния.
