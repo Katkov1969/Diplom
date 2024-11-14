@@ -1,6 +1,6 @@
 import plotly.express as px
-
 """
+Использование PlotlyExpress
 Кластеризация ирисов Фишера
 """
 df = px.data.iris()

@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-Диаграмма рассеяния с регрессионной линией
+Диаграмма рассеяния с регрессионной линией Seaborn
 """
 
 

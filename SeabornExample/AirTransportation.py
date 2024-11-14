@@ -3,6 +3,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+'''
+Использование библиотеки Seaborn
+Анализ авиаперевозок по данным из датасета  Seaborn "flights"
+'''
+
 
 def scatter_plot(data):
     """"

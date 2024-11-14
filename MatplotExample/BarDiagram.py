@@ -1,6 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+'''
+Создание столбцовых диаграм - вертикальной и горизонтальной
+'''
+
 users = ('Таня', 'Петя', 'Слава', 'Коля', 'Миша', 'Лена')
 y_pos = np.arange(len(users))
 age = [25, 28, 16, 34, 32, 41]

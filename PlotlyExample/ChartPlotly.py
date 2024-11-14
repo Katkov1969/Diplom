@@ -4,6 +4,14 @@ import plotly.graph_objs as go
 import plotly.offline as pyo
 import numpy as np
 
+'''
+Создание интерактивных графиков в Plotly
+линейный график, 
+гистограмма, 
+диаграмма рассеяния
+3D-график поверхности
+'''
+
 
 def plot_interactive_line(x, y):
     # Интерактивный линейный график

@@ -3,6 +3,10 @@ from dash import dcc, html
 import plotly.express as px
 import pandas as pd
 
+'''
+Создание графика с использованием Dash
+'''
+
 # Создание приложения Dash
 app = dash.Dash(__name__)
 

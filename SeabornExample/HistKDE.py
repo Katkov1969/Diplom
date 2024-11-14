@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 """
-    Строит гистограмму и оценку плотности распределения
-    """
+    Строит гистограмму и оценку плотности распределения в Seaborn
+"""
 
 
 def plot_hist_kde(data):

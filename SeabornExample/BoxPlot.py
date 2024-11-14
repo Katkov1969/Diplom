@@ -26,6 +26,6 @@ loc - центр 0-3,
 scale - разброс 
 """
 data = [np.random.normal(loc, 1, 100) for loc in range(4)]
-print(data)
+
 labels = ['A', 'B', 'C', 'D']
 plot_boxplot(data, labels)

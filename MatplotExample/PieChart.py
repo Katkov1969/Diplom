@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 
+''' Построение круговой диаграммы в Matplotlib '''
+
 
 def plot_pie_chart(labels, sizes):
     plt.figure(figsize=(7, 7))

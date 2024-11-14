@@ -2,8 +2,13 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 
-""" Построение линий и точек"""
+"""
+Cоздание 3D uрафиков в Matplotlib
+"""
 
+"""*****************************************************************************************"""""
+
+""" Построение линий и точек"""
 
 def lines_points_3D(x, y, z):
     # Создается фигура и 3D-оси

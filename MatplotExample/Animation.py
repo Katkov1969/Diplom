@@ -2,6 +2,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.animation as animation
 
+'''
+Анимация в Matplotlib Бегущая по времени синусоида
+'''
+
 
 def animate_sine_wave():  # функция будет создавать и отображать анимацию синусоидальной волны
     fig, ax = plt.subplots()  # Создает фигуру (fig) и набор осей (ax).
