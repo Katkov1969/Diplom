@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Animation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Animation.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/Animation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/BarDiagram.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/BarDiagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/BarDiagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Chart3D.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Chart3D.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/Chart3D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Histogram.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/Histogram.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/Histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/Histogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/LineChart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/LineChart.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/LineChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/LineChart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/LineChartSubplot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/LineChartSubplot.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/PieChart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/PieChart.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/PieChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/PieChart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/ScatteringDiagram.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/ScatteringDiagram.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatplotExample/ScatteringDiagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatplotExample/ScatteringDiagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/.ipynb_checkpoints/ChartPlotly-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/ChartPlotly.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/ChartPlotly.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/ChartPlotly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/DashPlotly.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/DashPlotly.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/DashPlotly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/PltExpress.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/PltExpress.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/PltExpress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_3d_surface.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_3d_surface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_histogram.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_histogram.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_line.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_line.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlotlyExample/interactive_scatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyExample/interactive_scatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/AirTransportation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/AirTransportation.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/AirTransportation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/BoxPlot.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/BoxPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/BoxPlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/HeatMap.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/HeatMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/HeatMap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/HistKDE.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/HistKDE.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/HistKDE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/Regress.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeabornExample/Regress.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeabornExample/Regress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b8e54c55-0b94-4e3e-a9c6-4e74f15c3dbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
